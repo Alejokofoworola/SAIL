@@ -1,0 +1,27 @@
+.internal1{
+    color: blueviolet;
+}
+.shadow{
+    text-shadow: 1px 2px ; color: olive;
+} 
+p span{
+    color: red;
+}
+#g2{
+    color: blue;
+}
+#o1{
+    color: red;
+}
+#o2{
+    color: yellow;
+}
+#g2 {
+    color: blue;
+}
+#l1{
+    color: green;
+}
+#e1{
+    color: red;
+}

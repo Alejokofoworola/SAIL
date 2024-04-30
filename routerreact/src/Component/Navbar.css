@@ -1,0 +1,28 @@
+#body{
+    margin: 0%;
+    padding: 0%;
+}
+
+#container{
+    width: 120rem;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: red;
+
+}
+
+#logo{
+    margin-left: 50px;
+    font-weight: 600;
+    font-size: 18px;
+}
+.navs{
+    display: flex;
+    margin-right: 50px;
+    
+}
+.link{
+    margin: 0% 10px;
+}

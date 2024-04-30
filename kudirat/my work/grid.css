@@ -1,0 +1,50 @@
+ @keyframes kofoworola {
+   from{
+   transform: translateX(1200px);
+   }
+   to{
+transform: translateX(0);
+   }
+ }
+ 
+ section{
+    display: grid;
+    background-color: darkgreen;
+    padding: 4px;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+ }
+ div{
+    background-color: darkgray;
+    padding: 10px;
+    border: 1px solid;
+ }
+ *{
+   text-align: center;
+   background-color: darkcyan;
+   margin: 0;
+   padding: 0;
+ }
+ #btn{
+   width: 300px;
+   margin-top: 500px;
+   border: none;
+   border-radius: 50px;
+   outline: none;
+   background-color: darkmagenta;
+   transition-property: background-color width;
+   transition-duration: 4s;
+   transition-timing-function: linear;
+   transition-delay: 1s;
+   animation-name: kofoworola ;
+   animation-duration: 5s;
+   animation-delay: 2s;
+   animation-timing-function: linear;
+   animation-iteration-count: 3;
+ }
+
+ #btn:hover{
+   background-color: azure;
+   width: 300px;
+   color: bisque;
+ }

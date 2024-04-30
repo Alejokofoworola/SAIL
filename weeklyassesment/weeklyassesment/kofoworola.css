@@ -1,0 +1,15 @@
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+    padding: 10px;
+}
+img{
+    width: 40px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+}

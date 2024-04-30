@@ -1,0 +1,42 @@
+ul{
+    list-style: none;
+    display: flex;
+    margin-right: 50px;
+    padding: 50px;
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+}
+
+.Social{
+    font-size: 43px;
+    font-weight: 600;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    width: 100vw
+}
+
+img{
+    width: 50px;
+}
+.bcg{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.5)), url("../gallery/warren-bh4LQHcOcxE-unsplash.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    padding: 5%;
+}
+
+.logo{
+    display: flex;
+    padding: 40px;
+}

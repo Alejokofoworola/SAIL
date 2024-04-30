@@ -1,0 +1,9 @@
+#paragraph{
+    color: black;
+    background-color: cyan;
+    
+}
+.parentDiv{
+    height: 100vh;
+    background-image: url(./images/warren-bh4LQHcOcxE-unsplash.jpg)
+}
